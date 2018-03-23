@@ -20,7 +20,7 @@ export default class App extends Component {
       <View style={styles.container}>
         <PushNotificationController />
         <Text style={styles.welcome}>
-          Welcome to Push Notification for React Native
+          This is app received from Visual App Center!
         </Text>
       </View>
     );
