@@ -20,7 +20,7 @@ export default class App extends Component {
       <View style={styles.container}>
         <PushNotificationController />
         <Text style={styles.welcome}>
-          This is app received from Visual App Center! CI implemented!
+          This is app received from Visual App Center! CI implemented fully!
         </Text>
       </View>
     );
